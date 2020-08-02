@@ -1,6 +1,6 @@
 # rocketmat_Desafio
 
-Desafio do programa de estágio da Rocketmat
+Desafio do programa de estágio da Rocketmat.
 
 Desafios:
 1. Faça uma análise do dataset e nos explique quais as principais informações e como
